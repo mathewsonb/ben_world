@@ -14,5 +14,3 @@ _Italic_
 `Code Snippet (inline)`
 
 ```Code Block```
-
-{{ $\text{Math Mode (Inline): }\frac{1+\sqrt{5}}{2}$ }}
