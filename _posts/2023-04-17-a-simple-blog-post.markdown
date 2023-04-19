@@ -14,3 +14,5 @@ _Italic_
 `Code Snippet (inline)`
 
 ```Code Block```
+
+$\text{test of inline Math mode: }\frac{1+\sqrt{5}}{2}\approx 1.618034$
